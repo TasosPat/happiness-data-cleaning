@@ -1,0 +1,11 @@
+Country,Year,GDP_per_capita,Happiness_score,Life_expectancy
+United Kingdom,2021,"42,300",7.22,81.2
+UK,2021,"42300",7.22,81.2
+Greece,2021,18100,6.0,82.0
+Greece,2021,18100,6.0,82.0
+Spain,2021,NaN,6.4,83.1
+France,2021,39000,6.7,
+Germany,2021,-45000,7.0,81.0
+Italy,2021,35000,6.5,83.4
+Portugal,2021,"27,500",,82.1
+Sweden,2021,53000,7.36,82.8
